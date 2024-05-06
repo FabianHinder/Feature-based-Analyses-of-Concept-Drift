@@ -13,8 +13,7 @@ Feature selection is one of the most relevant preprocessing and analysis techniq
 * Python 
 * Numpy, SciPy, Pandas, Matplotlib
 * scikit-learn
-* chpt (Kernel Drift Detector)
-* statsmodels
+* BorutaPy
 
 ## Usage
 
