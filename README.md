@@ -1,6 +1,6 @@
-# Feature-wise Analysis of Concept Drift
+# Feature-based Analyses of Concept Drift
 
-Experimental code of journal paper. [Paper](TODO) 
+Experimental code of journal paper. [Paper](https://www.sciencedirect.com/science/article/pii/S0925231224007392)
 
 ## Abstract
 
@@ -21,9 +21,16 @@ To run the experiments, there are three stages 1. create the datasets (`--make`)
 
 ## Cite
 
-Cite our Paper
+Cite our [Paper](https://www.sciencedirect.com/science/article/pii/S0925231224007392)
 ```
-TODO
+@article{hinder2024feature,
+  title={Feature-based analyses of concept drift},
+  author={Hinder, Fabian and Vaquet, Valerie and Hammer, Barbara},
+  journal={Neurocomputing},
+  pages={127968},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
 
 ## License
